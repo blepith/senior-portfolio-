@@ -3,12 +3,12 @@
     display: flex;
     flex-direction: row;
     padding-top: 20px;
-    font-family: "Firefox 1";
+    font-family: "Jersey 15";
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    color: rgb(107, 0, 0);
+    color: rgb(235, 0, 0);
     justify-content: right;
     margin-right: 1%;
     
@@ -20,12 +20,12 @@
 }
 
 .nav-link a {
-    text-decoration: underline;
+    text-decoration: line;
     color: black;
 }
 
 .nav-link a:hover {
-    text-decoration: underline;
+    text-decoration: line;
 }
 
 
@@ -71,7 +71,7 @@
     height: 150px;
 
     color: #000000;
-    font-family: "Noto Sans Japanese";
+    font-family: "Zilla Slab Highlight";
     font-size: 29px; 
     font-weight: lighter;
     line-height: normal;
@@ -105,6 +105,7 @@
     border-radius: 10px;
     justify-content: center;
     align-items: center;
+
 }
 
 .project-img {
@@ -120,17 +121,17 @@
 
 .project-title{
     margin-bottom: 0;
-    color: #17d6c3;
-    font-family: "Libre Baskerville";
-    font-size: 30px;
+    color: #000000c5;
+    font-family: "Jersey 15";
+    font-size: 35px;
     font-style: normal;
     font-weight: 700;
     line-height: 1;
 }
 
 .project-link {
-    color: #17d6c3;
-    font-family: "Libre Baskerville";
+    color: #000000;
+    font-family: "Yarndings 20 Charted";
     font-size: 15px;
     font-style: normal;
     font-weight: 500;
@@ -139,7 +140,7 @@
 
 .project-desc {
 margin-top: 0.5;
-color: #4dc205;
+color: #ffffff;
 }
 
 
