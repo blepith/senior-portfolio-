@@ -3,12 +3,12 @@
     display: flex;
     flex-direction: row;
     padding-top: 20px;
-    font-family: "Jersey 20";
+    font-family: "Firefox 1";
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    color: blueviolet;
+    color: rgb(107, 0, 0);
     justify-content: right;
     margin-right: 1%;
     
@@ -65,14 +65,14 @@
     text-align: center;
     align-items:center;
     margin:auto;
-    padding-bottom: 5%;
-    padding-top: 5%;
+    padding-bottom: 10%;
+    padding-top: 0%;
     width: 754px;
     height: 150px;
 
-    color: #4dc205;
-    font-family: "Libre Baskerville";
-    font-size: 20px; 
+    color: #000000;
+    font-family: "Noto Sans Japanese";
+    font-size: 29px; 
     font-weight: lighter;
     line-height: normal;
 }
