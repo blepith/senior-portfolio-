@@ -59,20 +59,36 @@
   /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
-
-.home-header {
+.home-header1 {
     justify-content: center;
     text-align: center;
     align-items:center;
     margin:auto;
-    padding-bottom: 10%;
+    padding-bottom: 0%;
     padding-top: 0%;
     width: 754px;
     height: 150px;
 
     color: #000000;
     font-family: "Zilla Slab Highlight";
-    font-size: 29px; 
+    font-size: 59px; 
+    font-weight: lighter;
+    line-height: normal;
+
+}
+.home-header {
+    justify-content: center;
+    text-align: center;
+    align-items:center;
+    margin:auto;
+    padding-bottom: 5%;
+    padding-top: 0%;
+    width: 754px;
+    height: 150px;
+
+    color: #000000;
+    font-family: "Zilla Slab Highlight";
+    font-size: 23px; 
     font-weight: lighter;
     line-height: normal;
 }
